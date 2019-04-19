@@ -1,0 +1,6 @@
+# Remove cache
+.vs
+TWRP Porter.sln.cache
+TWRP Porter/TWRP Porter_TemporaryKey.pfx
+TWRP Porter/bin/*
+TWRP Porter/obj

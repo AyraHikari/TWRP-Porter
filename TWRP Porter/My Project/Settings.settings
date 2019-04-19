@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="RemoveFolder" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Base" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Browse base TWRP from your device</Value>
+    </Setting>
+    <Setting Name="Target" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Browse target TWRP you want port</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
